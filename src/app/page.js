@@ -125,9 +125,9 @@ export default function WholesalerDemo() {
           </div>
           <div>
             <h4 className="text-xl font-bold mb-4">Contact Us</h4>
-            <p className="text-gray-400 mb-2">📞 +91 98765 43210</p>
-            <p className="text-gray-400 mb-2">📧 sales@nagadcomputer.com</p>
-            <p className="text-gray-400">📍 Mumbai, Maharashtra</p>
+            <p className="text-gray-400 mb-2">📞 +91 7028519039</p>
+            <p className="text-gray-400 mb-2">youe email</p>
+            <p className="text-gray-400">your address</p>
           </div>
           <div>
             <h4 className="text-xl font-bold mb-4">Quick Links</h4>
